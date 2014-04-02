@@ -1,4 +1,4 @@
-#Vamossss
+#Vamossss Ecuador
 puts "What's your name"
 my_name = gets.strip
 
